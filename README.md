@@ -3,9 +3,11 @@ To do list
 
 1. download the app from the below mwntioned link  https://github.com/manojvelyalan/To-Do-List.git
 
-2. Before running the app you have to create the data base and run the migation file "php artisan migrate"
+2.update the composer using "composer update" command..
 
-3.cretae the .env file for database credential..
+3. Before running the app you have to create the data base and run the migation file "php artisan migrate"
+
+4.cretae the .env file for database credential..
 
 APP_NAME=TO-DO-LISTS
 APP_ENV=local
@@ -55,9 +57,9 @@ MIX_PUSHER_APP_CLUSTER="${PUSHER_APP_CLUSTER}"
 
 this is the sample for .env file.
 
-4. Then run the php artisan serve command from the terminal or command window
+5. Then run the php artisan serve command from the terminal or command window
 
-5. enter the url, then you are able to view the application
+6. enter the url, then you are able to view the application
 
 
 
